@@ -19,3 +19,4 @@ def domainName(s) :
 
 print(domainName("http://github.com/anugrahnrhmd/apapun"))
 print(domainName("http://www.zombie-bites.com"))
+print(domainName("http://facebook.com"))
